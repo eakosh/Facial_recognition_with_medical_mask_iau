@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Facial recognition with medical mask iau
 The activity in a pair from the IAU course at FIIT. Classification of the images (with mask/without mask)
 =======
@@ -51,4 +50,3 @@ Download the [dataset](https://www.kaggle.com/datasets/ruchi798/periocular-detec
 pip install -r requirements.txt
 jupyter notebook face_mask_classification.ipynb
 ```
->>>>>>> 5ebd4b6 (ipynb + rm)
